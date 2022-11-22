@@ -1,0 +1,34 @@
+{
+  "anuncios": [
+    {
+      "id": 2,
+      "titulo": "Moto  yamaha muy potente",
+      "transaccion": "venta",
+      "descripcion": "moto muy buena!!!!",
+      "precio": "25999",
+      "kms": "25000",
+      "puertas": "4",
+      "potencia": "250"
+    },
+    {
+      "id": 4,
+      "titulo": "auto 4x4",
+      "transaccion": "venta",
+      "descripcion": "MUY BUEN AUTO PARA FLETES y transporte!!",
+      "precio": "25000",
+      "kms": "22555",
+      "puertas": "5",
+      "potencia": "61"
+    },
+    {
+      "id": 7,
+      "titulo": "La mejor camioneta de la historia",
+      "transaccion": "venta",
+      "descripcion": "muy barata",
+      "precio": "100000",
+      "kms": "6000",
+      "puertas": "5",
+      "potencia": "150"
+    }
+  ]
+}
